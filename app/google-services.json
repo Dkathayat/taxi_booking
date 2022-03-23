@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1089742346825",
+    "project_id": "phaadi-corner",
+    "storage_bucket": "phaadi-corner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089742346825:android:34d5dbb94fe0bb0a113d98",
+        "android_client_info": {
+          "package_name": "com.kathayat.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089742346825-s0hso9pq7fa1e22bm1j4pu8ofv1bsr80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kathayat.simplelogin",
+            "certificate_hash": "5fd048435a45035a695918aa665517b338d2a9f6"
+          }
+        },
+        {
+          "client_id": "1089742346825-m7rp67pr8eoukbjr1f25ti340hh2h981.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLktdD__OA2_Eh1_XY80jRjiCoFkE39C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089742346825-m7rp67pr8eoukbjr1f25ti340hh2h981.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

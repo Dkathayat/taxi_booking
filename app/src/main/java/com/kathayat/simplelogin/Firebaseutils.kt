@@ -1,0 +1,9 @@
+package com.kathayat.simplelogin
+
+import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.auth.FirebaseUser
+
+object FirebaseUtils {
+    private val firebaseAuth: FirebaseAuth = FirebaseAuth.getInstance()
+    val firebaseUser: FirebaseUser? = firebaseAuth.currentUser
+}
